@@ -1,0 +1,39 @@
+/* header */
+.header{
+    background-image:url('../assets/Hero-bg.png');
+    
+} 
+
+/* banner style */
+.banner-profile-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.btn-primary{
+    background-color: black;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    
+}
+.banner-title{
+    text-align: center;
+
+}
+.banner-description{
+    text-align: center;
+}
+.btn-primary{
+    display: block;
+    margin: auto;
+}
+
+
+
