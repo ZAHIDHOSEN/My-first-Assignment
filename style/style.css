@@ -33,7 +33,19 @@
 .btn-primary{
     display: block;
     margin: auto;
+
 }
+.why-web{
+    text-align: center;
+}
+.why-web-profile-pic{
+    display:flex;
+    
+}
+
+
+    
+
 
 
 
