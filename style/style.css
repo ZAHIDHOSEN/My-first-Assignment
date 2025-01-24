@@ -35,13 +35,123 @@
     margin: auto;
 
 }
-.why-web{
-    text-align: center;
+
+/* main related css */
+
+.main{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+
 }
-.why-web-profile-pic{
-    display:flex;
+
+.container{
+ 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.content-1{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
     
 }
+.content-2{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+}
+.content-3{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+}
+
+.inspiration{
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.target{
+    display: flex;
+    justify-content:space-around;
+}
+.target-1{
+    background-color: rgba(255, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)
+
+}
+.target-2{
+    background-color: rgba(0,0 ,255, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)
+
+}
+.target-3{
+    background-color: rgba(255, 255, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)
+
+}
+.divider {
+    width: 30%;
+    height:2px; 
+    background: #000; 
+    
+}
+.mother-container{
+    position: relative;
+    text-align: center;
+
+   
+}
+
+.hand-container{
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    color: white;
+
+    
+}
+.form{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+
+}
+.hand-img{
+    border: #000;
+    margin-top: 12px;
+    border-radius: 2%;
+ 
+    
+    width: 882px;
+    height: 320px;
+
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:slategrey;
+    color: white;
+    opacity: 0.9;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
 
 
     
